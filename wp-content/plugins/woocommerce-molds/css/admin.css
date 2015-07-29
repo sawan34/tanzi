@@ -1,0 +1,260 @@
+h4 {
+margin-top:0;
+margin-bottom:4px;
+}
+
+h2 {
+display:inline-block;
+}
+
+.wc_molds_term {
+display:inline;
+line-height:28px;
+padding:3px;
+background:#F7FCFE;
+border:1px solid #D1E5EE;
+border-radius:5px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+-o-border-radius:5px;
+}
+
+.wc_molds_term a {
+text-decoration:none;
+cursor:pointer;
+}
+
+input[type="checkbox"] {
+margin:2px;
+}
+
+.field {
+display:inline-block;
+line-height:28px;
+padding:10px;
+background:#F7FCFE;
+border:1px solid #D1E5EE;
+border-radius:5px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+-o-border-radius:5px;
+}
+
+.field  b {
+font-weight:bold;
+color:#21759B;
+}
+
+.content {
+width:98%;
+}
+
+.wc_molds_edit_img {
+display:block;
+width:16px;
+height:16px;
+background-image:url('images/edit.png');
+}
+
+.wc_molds_img_button {
+background:none;
+border:none;
+cursor:pointer;
+}
+
+.wc_molds_product button {
+margin:2px;
+cursor:pointer;
+background:none;
+border:none;
+}
+
+.wc_molds_product button:hover {
+color:#58ACFA;
+}
+
+#products {
+visibility: hidden;
+     position: absolute;
+     left: 0px;
+     top: 0px;
+     width:100%;
+     height:100%;
+     text-align:center;
+     z-index: 1000;
+}
+
+.modal_window {
+visibility: hidden;
+     position: absolute;
+     left: 0px;
+     top: 0px;
+     width:100%;
+     height:100%;
+     text-align:center;
+     z-index: 1000;
+}
+
+.modal_inner {
+     width:50%;
+     margin: 100px auto;
+     background-color: #fff;
+     border:1px solid #58ACFA;
+     padding:15px;
+     text-align:center;
+	 text-align:justify;
+	 -webkit-border-radius:20px;
+	 -moz-border-radius:20px;
+	 border-radius:20px;
+	 -webkit-box-shadow: 2px 2px 2px #D8D8D8 ;
+	 -moz-box-shadow: 2px 2px 2px #D8D8D8 ;
+	 box-shadow: 2px 2px 2px #D8D8D8 ;
+}
+
+#sale_dates {
+display:none;
+visibility:hidden;
+}
+
+.wrap form {
+display:inline;
+}
+
+body .button.button-primary.button-large.red {
+border-color:#8E3484;
+background: #c64f9f; /* Old browsers */
+background: -moz-linear-gradient(top, #c64f9f 0%, #a83988 44%, #8e3484 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c64f9f), color-stop(44%,#a83988), color-stop(100%,#8e3484)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #c64f9f 0%,#a83988 44%,#8e3484 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #c64f9f 0%,#a83988 44%,#8e3484 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #c64f9f 0%,#a83988 44%,#8e3484 100%); /* IE10+ */
+background: linear-gradient(to bottom, #c64f9f 0%,#a83988 44%,#8e3484 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c64f9f', endColorstr='#8e3484',GradientType=0 ); /* IE6-9 */
+}
+
+body .button.button-primary.button-large.red:hover {
+background: #C36AA6; /* Old browsers */
+background: -moz-linear-gradient(top, #C36AA6 0%, #a83988 44%, #8e3484 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#C36AA6), color-stop(44%,#a83988), color-stop(100%,#8e3484)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #C36AA6 0%,#a83988 44%,#8e3484 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #C36AA6 0%,#a83988 44%,#8e3484 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #C36AA6 0%,#a83988 44%,#8e3484 100%); /* IE10+ */
+background: linear-gradient(to bottom, #C36AA6 0%,#a83988 44%,#8e3484 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#C36AA6', endColorstr='#8e3484',GradientType=0 ); /* IE6-9 */
+}
+
+input[type=checkbox].css-checkbox {
+position: absolute; 
+overflow: hidden; 
+clip: rect(0 0 0 0); 
+height:1px; 
+width:1px; 
+margin:-1px; 
+padding:0;
+border:0;
+}
+
+input[type=checkbox].css-checkbox + label.css-label {
+padding-left:20px;
+height:15px; 
+display:inline-block;
+line-height:15px;
+background-repeat:no-repeat;
+background-position: 0 0;
+font-size:15px;
+vertical-align:middle;
+cursor:pointer;
+}
+
+input[type=checkbox].css-checkbox:checked + label.css-label {
+background-position: 0 -15px;
+}
+						
+.css-label{ color:#174F69;background-image:url(http://csscheckbox.com/checkboxes/lite-cyan-check.png); }
+
+.bluebutton {
+cursor:pointer;
+padding:5px;
+color:#174F69;
+border:1px solid #9ee8fa;
+-webkit-border-radius:20px;
+-moz-border-radius:20px;
+border-radius:20px;
+background: #d6f9ff; /* Old browsers */
+background: -moz-linear-gradient(top, #d6f9ff 0%, #9ee8fa 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d6f9ff), color-stop(100%,#9ee8fa)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #d6f9ff 0%,#9ee8fa 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #d6f9ff 0%,#9ee8fa 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #d6f9ff 0%,#9ee8fa 100%); /* IE10+ */
+background: linear-gradient(to bottom, #d6f9ff 0%,#9ee8fa 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6f9ff', endColorstr='#9ee8fa',GradientType=0 ); /* IE6-9 */
+}
+
+.upload_image_button {
+cursor:pointer;
+border:3px solid #D1E5EE;
+border-radius:5px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+padding:2px;
+}
+.overlay {
+width: 100px;
+height:60px;
+position:absolute;
+opacity: 0;
+background:silver;
+color:white;
+padding-top:40px;
+}
+
+.upload_image_button:hover .overlay {
+opacity: 0.5;
+}
+
+.datatips {
+text-decoration:none;
+}
+
+.datatips:hover {
+color:DarkTurquoise;
+}
+
+[data-tip] { /* on sélectionne l'attribut data-tip */
+    position: relative;
+    cursor: help;
+    border-bottom: 1px dotted #aaa;
+}
+[data-tip]:hover::before {
+	content: '' !important;
+	position: absolute !important;
+	top:6px;
+	left: 2px;
+	width: 0;
+	height: 0;
+	border-top: 6px solid transparent;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-bottom: 6px solid SteelBlue;
+}
+[data-tip]:hover:after {
+    content: attr(data-tip); /* on récupère la valeur de l'attribut data-tip */
+    position: absolute;
+    top: 1.5em; left: 0;
+	width:150px;
+	text-align:center;
+	font-size:11px;
+	line-height:13px;
+    padding: 5px 10px;
+	margin-left:-50px;
+    background:SteelBlue;
+    color: #fff;
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-radius:5px 5px 5px 5px;
+	-webkit-box-shadow: 1px 1px 3px rgba(50, 50, 50, 0.21);
+	-moz-box-shadow:    1px 1px 3px rgba(50, 50, 50, 0.21);
+	box-shadow:         1px 1px 3px rgba(50, 50, 50, 0.21);
+	opacity: 1;
+	z-index: 99;
+}

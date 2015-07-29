@@ -1,0 +1,532 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Woocommerce Molds\n"
+"POT-Creation-Date: 2013-10-19 17:06+0100\n"
+"PO-Revision-Date: 2013-10-19 17:07+0100\n"
+"Last-Translator: Melina D. <serenafelis@yahoo.fr>\n"
+"Language-Team: Mélina D. <serenafelis@yahoo.fr>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\portfolio\\wp-content\\plugins"
+"\\woocommerce-molds\n"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:7
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les droits suffisants pour accéder à cette page."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:37
+msgid "New mold"
+msgstr "Nouveau modèle"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:41
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:116
+msgid "Edit mold"
+msgstr "Modifier modèle"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:60
+msgid "Save"
+msgstr "Enregistrer"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:65
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:260
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:50
+msgid "Name"
+msgstr "Nom"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:264
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:266
+msgid "Type the mold name here..."
+msgstr "Tapez ici le nom du modèle..."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:308
+msgid "Parent product"
+msgstr "Produit concerné"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:319
+msgid "Select a product"
+msgstr "Sélectionner un produit"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:326
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:52
+msgid "Attribute"
+msgstr "Attribut"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:328
+msgid "Select an attribute"
+msgstr "Sélectionnez un attribut"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:371
+msgid ""
+"If you do not select a term, the mold will be applied only to variations set "
+"on -any-"
+msgstr ""
+"Si vous ne sélectionnez pas de terme, le modèle sera appliqué uniquement aux "
+"variations configurées sur -tous termes-"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:371
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:53
+msgid "Terms"
+msgstr "Termes"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:432
+msgid ""
+"Enable this option to apply the mold on every variation concerned by the "
+"attribute"
+msgstr ""
+"Activez cette option pour appliquer le modèle à toute variation concernée "
+"par l'attribut choisi"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:432
+msgid "All"
+msgstr "Tous"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:442
+msgid "Select the options you want to apply to every variation of"
+msgstr "Choisissez les options que vous voulez appliquer à toute variation de"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:442
+msgid "using"
+msgstr "utilisant"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:515
+msgid ""
+"Enter a SKU for this variation or leave blank to use the parent product SKU."
+msgstr ""
+"Entrez une référence pour ces variations ou laissez vide pour utiliser la "
+"référence du produit parent"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:516
+msgid "SKU"
+msgstr "UGS"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:527
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:529
+msgid "Enable this option to activate the variations in the shop"
+msgstr "Activez cette option pour activer les variations dans la boutique"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:527
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:529
+msgid "Active"
+msgstr "Activé"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:541
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:543
+msgid ""
+"Enable this option if access is given to a downloadable file upon purchase "
+"of a product"
+msgstr ""
+"Activez cette option si l'accès est donné à un fichier téléchargeable lors "
+"de l'achat d'un produit"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:541
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:543
+msgid "Downloadable"
+msgstr "Téléchargeable"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:549
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:551
+msgid ""
+"Enable this option if a product is not shipped or there is no shipping cost"
+msgstr ""
+"Activez cette option si un produit n'est pas expédié ou s'il n'y a pas de "
+"frais de port"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:549
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:551
+msgid "Virtual"
+msgstr "Virtuel"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:556
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:558
+msgid ""
+"Enable this option to replace all the variations images, or else the image "
+"will only be passed to variations without one"
+msgstr ""
+"Activez cette option pour remplacer toutes les images des variations, ou "
+"alors l'image choisie sera seulement appliquée aux variations qui n'en "
+"possèdent pas"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:556
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:558
+msgid "Main image"
+msgstr "Image principale"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:566
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:568
+msgid "Unchecks the active option"
+msgstr "Désactive l'option activé"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:566
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:568
+msgid "Inactive"
+msgstr "Désactivé"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:572
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:574
+msgid "Unchecks the downloadable option"
+msgstr "Désactive l'option téléchargeable"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:572
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:574
+msgid "Not downloadable"
+msgstr "Non téléchargeable"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:579
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:581
+msgid "Unchecks the virtual option"
+msgstr "Désactive l'option virtuel"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:579
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:581
+msgid "Not virtual"
+msgstr "Non virtuel"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:589
+msgid ""
+"Enter a quantity to enable stock management at variation level, or leave "
+"blank to use the parent product's options."
+msgstr ""
+"Entrez une quantité pour activer la gestion de stock au niveau des "
+"variations, ou laissez vide pour utiliser les options du produit parent"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:589
+msgid "Stock Qty:"
+msgstr "Qté Stock:"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:596
+msgid "Regular Price:"
+msgstr "Prix régulier:"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:603
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:605
+msgid ""
+"Enabling this option will replace the variations regular price by the one "
+"you entered"
+msgstr ""
+"Activer cette option remplacera le prix actuel des variations par celui que "
+"vous avez entré"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:603
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:605
+msgid "Use as regular price"
+msgstr "Prix principal"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:611
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:613
+msgid "The price you entered will be added to the variations current price"
+msgstr "Le prix que vous avez entré sera ajouté au prix actuel des variations"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:611
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:613
+msgid "Add to regular price"
+msgstr "Ajouter au prix"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:619
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:621
+msgid ""
+"The price you entered will be substracted to the variations current price"
+msgstr ""
+"Le prix que vous avez entré sera soustrait au prix actuel des variations"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:619
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:621
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:669
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:671
+msgid "Substract"
+msgstr "Soustraire au prix"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:627
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:629
+msgid ""
+"The price you entered will be added or substracted as a percentage of the "
+"variations current price"
+msgstr ""
+"Le prix que vous avez entré sera ajouté ou soustrait en tant que pourcentage "
+"du prix actuel des variations"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:627
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:629
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:677
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:679
+msgid "Calculate in %"
+msgstr "Calculer en %"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:635
+msgid "Sale Price:"
+msgstr "Prix de vente:"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:637
+msgid "Schedule"
+msgstr "Planifier"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:638
+msgid "Define a sale price duration"
+msgstr "Définissez une durée pour le prix de vente"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:642
+msgid "Sale start date:"
+msgstr "Début de vente:"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:644
+msgid "Sale end date:"
+msgstr "Fin de vente:"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:653
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:655
+msgid "Use as sale price"
+msgstr "Prix de vente principal"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:661
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:663
+msgid "Add to sale price"
+msgstr "Ajouter au prix de vente"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:692
+msgid ""
+"Enter a weight for this variation or leave blank to use the parent product "
+"weight."
+msgstr ""
+"Saisissez un poids pour les variations ou laissez vide pour utiliser le "
+"poids du produit parent"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:692
+msgid "Weight"
+msgstr "Poids"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:698
+msgid "Dimensions (L&times;W&times;H)"
+msgstr "Dimensions (L&times;Larg&times;H)"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:710
+msgid "Shipping class:"
+msgstr "Classe de livraison:"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:716
+msgid "Same as parent"
+msgstr "Identique au parent"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:781
+msgid ""
+"Enter one or more File Paths, one per line, to make this variation a "
+"downloadable product, or leave blank."
+msgstr ""
+"Saisissez un ou plusieurs chemins de fichier, un par ligne, pour des "
+"variations un produit téléchargeable, ou laissez vide"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:781
+msgid "File paths:"
+msgstr "Chemins fichier:"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:782
+msgid "File paths/URLs, one per line"
+msgstr "Chemins fichier/URLs, un par ligne"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:783
+msgid "Insert file URL"
+msgstr "Entrez l'URL d'un fichier"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:783
+msgid "Choose a file"
+msgstr "Choisir un fichier"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:783
+msgid "Upload"
+msgstr "Envoyer"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:787
+msgid "Leave blank for unlimited re-downloads."
+msgstr "Laissez vide pour les téléchargements illimités"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:787
+msgid "Download Limit:"
+msgstr "Limite téléchargement:"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:788
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:792
+msgid "Unlimited"
+msgstr "Illimitée"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:791
+msgid ""
+"Enter the number of days before a download link expires, or leave blank."
+msgstr ""
+"Saissisez le nombre de jour avant qu'un lien de téléchargement n'expire, ou "
+"laissez vide"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:791
+msgid "Download Expiry:"
+msgstr "Expiration du téléchargement"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:803
+msgid "Product Molds"
+msgstr "Modèles de Produit"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:804
+msgid "Apply a mold to instantly feed product variations."
+msgstr ""
+"Appliquez un modèle pour nourrir instantanément les variations de produit."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:804
+msgid ""
+"The order in which molds are applied can matter, because a mold can override "
+"the effects of previous ones (percentages can surprise you if you're not "
+"careful)"
+msgstr ""
+"L'ordre dans lequel les modèles sont appliqués peut être important, car un "
+"modèle peut primer sur les effets des précédents (les pourcentages peuvent "
+"vous surprendre si vous n'y prenez pas garde)"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/wc-molds-admin.php:806
+msgid "New Mold"
+msgstr "Nouveau Modèle"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:34
+msgid "Molds"
+msgstr "Modèles"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:51
+msgid "Product"
+msgstr "Produit"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:54
+msgid "Edit"
+msgstr "Modifier"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:55
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:74
+msgid "Apply"
+msgstr "Appliquer"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:56
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:96
+msgid "Remove"
+msgstr "Supprimer"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:73
+msgid ""
+"Anything you've defined in the mold will be applied to its matching "
+"variations."
+msgstr ""
+"Tout ce que vous avez défini dans le modèle sera appliqué aux variations qui "
+"lui correspondent."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:74
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:83
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:96
+msgid "Cancel"
+msgstr "Annuler"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:79
+msgid ""
+"Anything you've defined in the mold will be unapplied to its matching "
+"variations."
+msgstr ""
+"Tout ce que vous avez défini dans le modèle sera désappliqué des variations "
+"qui lui correspondent"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:80
+msgid "Reverse checkboxes"
+msgstr "Inverser les options"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:81
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:90
+msgid "Yes"
+msgstr "Oui"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:82
+msgid "Checked boxes will be unchecked and vice versa"
+msgstr "Les cases cochées seront décochées et vice versa"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:83
+msgid "Unapply"
+msgstr "Désappliquer"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:89
+msgid "Unapply mold before removing it"
+msgstr "Désappliquer le modèle avant de le supprimer"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:91
+msgid "Don't check the box if you want to keep your variations's data intact."
+msgstr ""
+"Ne cochez pas la case si vous voulez garder intactes les données de vos "
+"variations."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:94
+msgid "Are you sure"
+msgstr "Êtes-vous sûr"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:116
+msgid "EDIT"
+msgstr "MODIFIER"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:119
+msgid "Click to unapply mold"
+msgstr "Cliquez pour désappliquer le modèle"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:119
+msgid "UNAPPLY"
+msgstr "ENLEVER"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:121
+msgid "Click to apply mold"
+msgstr "Cliquez pour appliquer la modèle"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:121
+msgid "APPLY"
+msgstr "APPLIQUER"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:124
+msgid "Remove mold"
+msgstr "Supprimer le modèle"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:124
+msgid "REMOVE"
+msgstr "SUPPRIMER"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:129
+msgid "No molds currently exist."
+msgstr "Aucun modèle n'existe pour le moment."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:145
+msgid "Deleted."
+msgstr "Supprimé."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1037
+msgid "Saved."
+msgstr "Enregistré."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1039
+msgid "Couldn't be saved."
+msgstr "N'a pas pu être enregistré."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1463
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1775
+msgid "No update on #"
+msgstr "Pas de mise jour pour #"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1499
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1782
+msgid "Total : "
+msgstr "Total:"
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1501
+msgid " variations were molded."
+msgstr " variations ont été modelées."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1506
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1789
+msgid "No variations found."
+msgstr "Aucune variation trouvée."
+
+#: C:\wamp\www\portfolio\wp-content\plugins\woocommerce-molds/woocommerce-molds.php:1784
+msgid " variations were unmolded."
+msgstr " variations ont été démodelées."
