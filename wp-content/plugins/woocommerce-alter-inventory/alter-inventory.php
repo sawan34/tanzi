@@ -196,9 +196,22 @@ function woo_add_payment_method_to_admin_new_order( $order, $is_admin_email ) {
  </script>
  <script >
   jQuery( document ).ready(function() {
-    jQuery(".pro_weight").change(function() {
-       var id =  jQuery(this).attr('id');
-
+    jQuery(".pro_weight").keyup(function() {
+       var idc =  jQuery(this).attr('id');
+       var id = idc.split('_');
+           id = id[1];
+       var price = jQuery('span#price_'+id+'').next().val();
+       var weight =jQuery(this).val();
+       console.log(weight);
+       if(isNaN(weight)==false){
+         console.log ('number');
+         var total_price = weight * price;
+          jQuery('span#price_'+id+'').text(total_price);
+          console.log (total_price);
+       }else{
+        alert("Please enter only number !");
+        return false;
+       }
     });
   });
 </script>
@@ -317,7 +330,10 @@ Refresh</a>
   }else{
      $pro_price = $sale_price;
    }?>
-<td id = "price_<?php echo get_the_id();?>" class="order-number" style="padding: 0 5px;border: 1px solid #000;"><?php _e($pro_price);?></td>
+<td  class="order-number" style="padding: 0 5px;border: 1px solid #000;">
+	<span id = "price_<?php echo get_the_id();?>" ><?php _e($pro_price);?></span>
+	<input type='hidden'  class="unit_price" value="<?php _e($pro_price); ?>" />
+</td>
 <!-- <td class="order-number" style="padding: 0 5px;border: 1px solid #000;"><?php echo $product->get_attribute( 'pa_zlocation' ); ?></td>
 <td class="order-number" style="padding: 0 5px;border: 1px solid #000;"><?php echo $product->get_attribute( 'pa_parcel' ); ?></td> -->
 <!-- <td class="order-number nowrap" style="padding: 0 5px;border: 1px solid #000;white-space:nowrap;"><?php echo $product->price; ?></td> -->
