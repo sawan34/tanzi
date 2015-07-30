@@ -1,5 +1,5 @@
 <?php
-
+//edit
 /*
 Plugin Name: WooCommerce - Alter Inventory Stock Admin
 Plugin URI: http://www.altertech.it/woocommerce-alter-inventory/
